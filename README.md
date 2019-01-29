@@ -10,6 +10,6 @@
  </ul>
 <h1> Notes </h1>
 
-The execution context is created in two phase. In the 'Creation Phase,' we have the 'Global Object,' 'this,' and the 'Outer Environment'. Also in the creation phase memory space is setup for Variables and Function  'Hoisting'
+In the 'Creation Phase,' we have the 'Global Object,' 'this,' and the 'Outer Environment'. Also in the creation phase memory space is setup for Variables and Functions  'Hoisting'
 
 
