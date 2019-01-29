@@ -6,10 +6,8 @@
  <ul>
 
   <li> Hoisting </h1>
-  
+
  </ul>
-<h1> Notes </h1>
+<h1>Notes</h1>
 
 In the 'Creation Phase,' we have the 'Global Object,' 'this,' and the 'Outer Environment'. Also in the creation phase memory space is setup for Variables and Functions  'Hoisting'
-
-
